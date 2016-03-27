@@ -97,7 +97,7 @@ Assuming that the Samsumg raw data is available in the working directory. The re
 ## Code Book
 The output dataset contains the following columns:-
 
-### SubjectId 'Subject Identifier'
+### subjectid 'Subject Identifier'
 
 Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
@@ -140,7 +140,7 @@ Each row identifies the subject who performed the activity for each window sampl
 
 ---
 
-### Activity 'Activity'
+### activity 'Activity'
 
 Activity performed by subject wearing a smartphone.
 

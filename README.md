@@ -16,5 +16,5 @@ The accompanying R script `run_analysis.R` achieves the above by doing the follo
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates and outputs a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The resultant data set output is included in this project, `Smartphone_Human_Activity_Summary_Stats.txt`, along with a CodeBook, `codebook.md` and corresponding word document, `codebook.docx`, describing the raw and resultant data, together with the process and summary choices made in compiling this data.
+The resultant data set output is included in this project, `Smartphone_Human_Activity_Summary_Stats.txt`, along with a CodeBook, `codebook.md`, describing the raw and resultant data, together with the process and summary choices made in compiling this data.
 
